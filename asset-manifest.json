@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BaiTapReactjs1/static/css/main.741aa5b1.chunk.css",
+    "main.js": "/BaiTapReactjs1/static/js/main.b922d161.chunk.js",
+    "main.js.map": "/BaiTapReactjs1/static/js/main.b922d161.chunk.js.map",
+    "runtime-main.js": "/BaiTapReactjs1/static/js/runtime-main.72897a5a.js",
+    "runtime-main.js.map": "/BaiTapReactjs1/static/js/runtime-main.72897a5a.js.map",
+    "static/js/2.c08b11e9.chunk.js": "/BaiTapReactjs1/static/js/2.c08b11e9.chunk.js",
+    "static/js/2.c08b11e9.chunk.js.map": "/BaiTapReactjs1/static/js/2.c08b11e9.chunk.js.map",
+    "static/js/3.6ba45f01.chunk.js": "/BaiTapReactjs1/static/js/3.6ba45f01.chunk.js",
+    "static/js/3.6ba45f01.chunk.js.map": "/BaiTapReactjs1/static/js/3.6ba45f01.chunk.js.map",
+    "index.html": "/BaiTapReactjs1/index.html",
+    "static/css/main.741aa5b1.chunk.css.map": "/BaiTapReactjs1/static/css/main.741aa5b1.chunk.css.map",
+    "static/js/2.c08b11e9.chunk.js.LICENSE.txt": "/BaiTapReactjs1/static/js/2.c08b11e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72897a5a.js",
+    "static/js/2.c08b11e9.chunk.js",
+    "static/css/main.741aa5b1.chunk.css",
+    "static/js/main.b922d161.chunk.js"
+  ]
+}
